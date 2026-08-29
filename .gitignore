@@ -1,0 +1,14 @@
+# Secret API key
+.env
+
+# Virtual environment folder
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+.idea/
